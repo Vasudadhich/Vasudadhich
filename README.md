@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning flutter 
 - 💞 I’m looking to collaborate on any flutter project
 - 💬 Ask me about C,Java,Flutter,Dart,Python,Ethical Hacking
-- 📫 How to reach me: [My Linkedln Profile](https://www.linkedin.com/in/vasudevdadhich/) or [Email](vasudadhich2000@gmail.com)
+- 📫 How to reach me: [My Linkedln Profile](https://www.linkedin.com/in/vasudevdadhich/) or [Email](mailto:vasudadhich2000@gmail.com)
 
 <!---
 Vasudadhich/Vasudadhich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
